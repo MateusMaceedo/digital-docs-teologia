@@ -1,5 +1,5 @@
 ---
-title: "Example Guide"
+title: "Estudos e anotações"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
@@ -14,7 +14,7 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
+A Bíblia de Estudo com Teologia Sistemática na versão NVI, traz um caderno com estudos organizados em quadros simplificados, porém com conteúdo profundo de teologia sistemática.
 
 ## Further reading
 

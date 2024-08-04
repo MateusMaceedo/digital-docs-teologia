@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Doks on My Docs</title>
+    <title>Estudos e anotações Teologicas on My Docs</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Doks on My Docs</description>
+    <description>Recent content in Estudos e anotações Teologicas on My Docs</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Hyas</copyright>
@@ -17,11 +17,11 @@
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
-      <title>Example Guide</title>
-      <link>http://localhost:1313/docs/guides/example-guide/</link>
+      <title>Estudos e anotações</title>
+      <link>http://localhost:1313/docs/guides/estudos-e-anota%C3%A7%C3%B5es/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/example-guide/</guid>
-      <description>Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.</description>
+      <guid>http://localhost:1313/docs/guides/estudos-e-anota%C3%A7%C3%B5es/</guid>
+      <description>A Bíblia de Estudo com Teologia Sistemática na versão NVI, traz um caderno com estudos organizados em quadros simplificados, porém com conteúdo profundo de teologia sistemática.</description>
     </item>
     <item>
       <title>Example Reference</title>
